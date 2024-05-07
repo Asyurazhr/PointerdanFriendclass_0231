@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="PointerdanFriendclass_0231.cpp" />
     <ClCompile Include="project2.cpp" />
+    <ClCompile Include="project3.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
