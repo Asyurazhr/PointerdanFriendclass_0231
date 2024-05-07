@@ -13,7 +13,8 @@ public:
 
 class segitiga
 {
-
+    
+        
 };
 
 int main()
