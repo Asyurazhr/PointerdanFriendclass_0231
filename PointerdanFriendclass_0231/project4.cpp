@@ -22,3 +22,10 @@ public:
 	void DisplayAll(orang& a);
 };
 
+void siswa::DisplayAll(orang& a)
+{
+	cout << id << endl << a.nama;
+}
+
+
+
